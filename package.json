@@ -1,0 +1,25 @@
+{
+  "name": "learnecharts",
+  "version": "1.0.0",
+  "description": "learn Echarts with react.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzju/learnEcharts.git"
+  },
+  "keywords": [
+    "echarts"
+  ],
+  "author": "zhangzju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzju/learnEcharts/issues"
+  },
+  "homepage": "https://github.com/zhangzju/learnEcharts#readme",
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}

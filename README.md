@@ -1,2 +1,3 @@
 # learnEcharts
-learn Echarts with react.
+
+learn Echarts with next.js(based on react.js)
