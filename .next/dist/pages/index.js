@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _react = require('C:\\Users\\Administrator\\Desktop\\learnEcharts\\node_modules\\react\\react.js');
+var _react = require('/Users/weizhang/workspace/learnEcharts/node_modules/react/react.js');
 
 var _react2 = _interopRequireDefault(_react);
 
@@ -17,4 +17,4 @@ exports.default = function () {
     'Hello world!'
   );
 };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcQWRtaW5pc3RyYXRvclxcRGVza3RvcFxcbGVhcm5FY2hhcnRzXFxwYWdlc1xcaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQUE7Ozs7OztrQkFDZTtBQUFBLFNBQU07QUFBQTtBQUFBO0FBQUE7QUFBQSxHQUFOO0FBQUEsQyIsImZpbGUiOiJpbmRleC5qcyIsInNvdXJjZVJvb3QiOiJDOi9Vc2Vycy9BZG1pbmlzdHJhdG9yL0Rlc2t0b3AvbGVhcm5FY2hhcnRzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xyXG5leHBvcnQgZGVmYXVsdCAoKSA9PiA8ZGl2PkhlbGxvIHdvcmxkITwvZGl2PlxyXG4iXX0=
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBOzs7Ozs7a0JBQ2U7QUFBQSxTQUFNO0FBQUE7QUFBQTtBQUFBO0FBQUEsR0FBTjtBQUFBLEMiLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL3dlaXpoYW5nL3dvcmtzcGFjZS9sZWFybkVjaGFydHMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5leHBvcnQgZGVmYXVsdCAoKSA9PiA8ZGl2PkhlbGxvIHdvcmxkITwvZGl2PlxuIl19
