@@ -1,11 +1,19 @@
 import React from 'react'
 import Router from 'next/router'
+import ReactEcharts from 'echarts-for-react';
+
 
 
 export default class extends React.Component {
     render () {
         return (
-            <div><h1>Navigator Page</h1></div>
+            <ReactEcharts
+    option={this.getOption()} 
+    notMerge={true}
+    lazyUpdate={true}
+    theme={"theme_name"}
+    onChartReady={this.onChartReadyCallback}
+    onEvents={EventsDict} />
         )
     }
 }

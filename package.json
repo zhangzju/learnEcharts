@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/zhangzju/learnEcharts#readme",
   "dependencies": {
-    "next": "^2.0.0-beta"
+    "antd": "^2.7.4",
+    "echarts-for-react": "^1.1.6",
+    "next": "^2.0.0-beta",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
